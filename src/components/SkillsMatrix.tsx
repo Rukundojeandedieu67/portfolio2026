@@ -7,8 +7,7 @@ import {
   Briefcase, 
   Cloud, 
   Clock,
-  Sparkles,
-  CheckCircle2
+  Sparkles
 } from 'lucide-react';
 import { SKILL_CATEGORIES, SOFT_SKILLS } from '../data/portfolioData';
 
